@@ -6,6 +6,9 @@
 ### Neural Networks and Machine Learning:
 - [Neural Networks & TensorFlow Crash Course](https://youtu.be/tZt6gRlRcgk)
 
+### Open Source Basics:
+- [Complete Guide to Open Source - How to Contribute](https://youtu.be/yzeVMecydCE)
+
 ### Improving Problem Solving Skills:
 - [CodingBat](https://codingbat.com/java) for Beginner students
 - [Daily Coding Problem](https://www.dailycodingproblem.com/) for Intermediate students
